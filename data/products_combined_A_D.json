@@ -1,0 +1,1978 @@
+[
+  {
+    "id": "prod_1",
+    "category": "pulsa",
+    "provider": "Telkomsel",
+    "nominal": 5000,
+    "prices": {
+      "A": {
+        "modal": 5100,
+        "reseller": 5253,
+        "customer": 5457
+      },
+      "D": {
+        "modal": 5400,
+        "reseller": 5724,
+        "customer": 6048
+      }
+    }
+  },
+  {
+    "id": "prod_2",
+    "category": "pulsa",
+    "provider": "Telkomsel",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10200,
+        "reseller": 10506,
+        "customer": 10914
+      },
+      "D": {
+        "modal": 10800,
+        "reseller": 11448,
+        "customer": 12096
+      }
+    }
+  },
+  {
+    "id": "prod_3",
+    "category": "pulsa",
+    "provider": "Telkomsel",
+    "nominal": 15000,
+    "prices": {
+      "A": {
+        "modal": 15300,
+        "reseller": 15759,
+        "customer": 16371
+      },
+      "D": {
+        "modal": 16200,
+        "reseller": 17172,
+        "customer": 18144
+      }
+    }
+  },
+  {
+    "id": "prod_4",
+    "category": "pulsa",
+    "provider": "Telkomsel",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20400,
+        "reseller": 21012,
+        "customer": 21828
+      },
+      "D": {
+        "modal": 21600,
+        "reseller": 22896,
+        "customer": 24192
+      }
+    }
+  },
+  {
+    "id": "prod_5",
+    "category": "pulsa",
+    "provider": "Telkomsel",
+    "nominal": 25000,
+    "prices": {
+      "A": {
+        "modal": 25500,
+        "reseller": 26265,
+        "customer": 27285
+      },
+      "D": {
+        "modal": 27000,
+        "reseller": 28620,
+        "customer": 30240
+      }
+    }
+  },
+  {
+    "id": "prod_6",
+    "category": "pulsa",
+    "provider": "Telkomsel",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 51000,
+        "reseller": 52530,
+        "customer": 54570
+      },
+      "D": {
+        "modal": 54000,
+        "reseller": 57240,
+        "customer": 60480
+      }
+    }
+  },
+  {
+    "id": "prod_7",
+    "category": "pulsa",
+    "provider": "Telkomsel",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 102000,
+        "reseller": 105060,
+        "customer": 109140
+      },
+      "D": {
+        "modal": 108000,
+        "reseller": 114480,
+        "customer": 120960
+      }
+    }
+  },
+  {
+    "id": "prod_8",
+    "category": "pulsa",
+    "provider": "Indosat",
+    "nominal": 5000,
+    "prices": {
+      "A": {
+        "modal": 5100,
+        "reseller": 5253,
+        "customer": 5457
+      },
+      "D": {
+        "modal": 5400,
+        "reseller": 5724,
+        "customer": 6048
+      }
+    }
+  },
+  {
+    "id": "prod_9",
+    "category": "pulsa",
+    "provider": "Indosat",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10200,
+        "reseller": 10506,
+        "customer": 10914
+      },
+      "D": {
+        "modal": 10800,
+        "reseller": 11448,
+        "customer": 12096
+      }
+    }
+  },
+  {
+    "id": "prod_10",
+    "category": "pulsa",
+    "provider": "Indosat",
+    "nominal": 15000,
+    "prices": {
+      "A": {
+        "modal": 15300,
+        "reseller": 15759,
+        "customer": 16371
+      },
+      "D": {
+        "modal": 16200,
+        "reseller": 17172,
+        "customer": 18144
+      }
+    }
+  },
+  {
+    "id": "prod_11",
+    "category": "pulsa",
+    "provider": "Indosat",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20400,
+        "reseller": 21012,
+        "customer": 21828
+      },
+      "D": {
+        "modal": 21600,
+        "reseller": 22896,
+        "customer": 24192
+      }
+    }
+  },
+  {
+    "id": "prod_12",
+    "category": "pulsa",
+    "provider": "Indosat",
+    "nominal": 25000,
+    "prices": {
+      "A": {
+        "modal": 25500,
+        "reseller": 26265,
+        "customer": 27285
+      },
+      "D": {
+        "modal": 27000,
+        "reseller": 28620,
+        "customer": 30240
+      }
+    }
+  },
+  {
+    "id": "prod_13",
+    "category": "pulsa",
+    "provider": "Indosat",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 51000,
+        "reseller": 52530,
+        "customer": 54570
+      },
+      "D": {
+        "modal": 54000,
+        "reseller": 57240,
+        "customer": 60480
+      }
+    }
+  },
+  {
+    "id": "prod_14",
+    "category": "pulsa",
+    "provider": "Indosat",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 102000,
+        "reseller": 105060,
+        "customer": 109140
+      },
+      "D": {
+        "modal": 108000,
+        "reseller": 114480,
+        "customer": 120960
+      }
+    }
+  },
+  {
+    "id": "prod_15",
+    "category": "pulsa",
+    "provider": "XL",
+    "nominal": 5000,
+    "prices": {
+      "A": {
+        "modal": 5100,
+        "reseller": 5253,
+        "customer": 5457
+      },
+      "D": {
+        "modal": 5400,
+        "reseller": 5724,
+        "customer": 6048
+      }
+    }
+  },
+  {
+    "id": "prod_16",
+    "category": "pulsa",
+    "provider": "XL",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10200,
+        "reseller": 10506,
+        "customer": 10914
+      },
+      "D": {
+        "modal": 10800,
+        "reseller": 11448,
+        "customer": 12096
+      }
+    }
+  },
+  {
+    "id": "prod_17",
+    "category": "pulsa",
+    "provider": "XL",
+    "nominal": 15000,
+    "prices": {
+      "A": {
+        "modal": 15300,
+        "reseller": 15759,
+        "customer": 16371
+      },
+      "D": {
+        "modal": 16200,
+        "reseller": 17172,
+        "customer": 18144
+      }
+    }
+  },
+  {
+    "id": "prod_18",
+    "category": "pulsa",
+    "provider": "XL",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20400,
+        "reseller": 21012,
+        "customer": 21828
+      },
+      "D": {
+        "modal": 21600,
+        "reseller": 22896,
+        "customer": 24192
+      }
+    }
+  },
+  {
+    "id": "prod_19",
+    "category": "pulsa",
+    "provider": "XL",
+    "nominal": 25000,
+    "prices": {
+      "A": {
+        "modal": 25500,
+        "reseller": 26265,
+        "customer": 27285
+      },
+      "D": {
+        "modal": 27000,
+        "reseller": 28620,
+        "customer": 30240
+      }
+    }
+  },
+  {
+    "id": "prod_20",
+    "category": "pulsa",
+    "provider": "XL",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 51000,
+        "reseller": 52530,
+        "customer": 54570
+      },
+      "D": {
+        "modal": 54000,
+        "reseller": 57240,
+        "customer": 60480
+      }
+    }
+  },
+  {
+    "id": "prod_21",
+    "category": "pulsa",
+    "provider": "XL",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 102000,
+        "reseller": 105060,
+        "customer": 109140
+      },
+      "D": {
+        "modal": 108000,
+        "reseller": 114480,
+        "customer": 120960
+      }
+    }
+  },
+  {
+    "id": "prod_22",
+    "category": "pulsa",
+    "provider": "Axis",
+    "nominal": 5000,
+    "prices": {
+      "A": {
+        "modal": 5100,
+        "reseller": 5253,
+        "customer": 5457
+      },
+      "D": {
+        "modal": 5400,
+        "reseller": 5724,
+        "customer": 6048
+      }
+    }
+  },
+  {
+    "id": "prod_23",
+    "category": "pulsa",
+    "provider": "Axis",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10200,
+        "reseller": 10506,
+        "customer": 10914
+      },
+      "D": {
+        "modal": 10800,
+        "reseller": 11448,
+        "customer": 12096
+      }
+    }
+  },
+  {
+    "id": "prod_24",
+    "category": "pulsa",
+    "provider": "Axis",
+    "nominal": 15000,
+    "prices": {
+      "A": {
+        "modal": 15300,
+        "reseller": 15759,
+        "customer": 16371
+      },
+      "D": {
+        "modal": 16200,
+        "reseller": 17172,
+        "customer": 18144
+      }
+    }
+  },
+  {
+    "id": "prod_25",
+    "category": "pulsa",
+    "provider": "Axis",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20400,
+        "reseller": 21012,
+        "customer": 21828
+      },
+      "D": {
+        "modal": 21600,
+        "reseller": 22896,
+        "customer": 24192
+      }
+    }
+  },
+  {
+    "id": "prod_26",
+    "category": "pulsa",
+    "provider": "Axis",
+    "nominal": 25000,
+    "prices": {
+      "A": {
+        "modal": 25500,
+        "reseller": 26265,
+        "customer": 27285
+      },
+      "D": {
+        "modal": 27000,
+        "reseller": 28620,
+        "customer": 30240
+      }
+    }
+  },
+  {
+    "id": "prod_27",
+    "category": "pulsa",
+    "provider": "Axis",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 51000,
+        "reseller": 52530,
+        "customer": 54570
+      },
+      "D": {
+        "modal": 54000,
+        "reseller": 57240,
+        "customer": 60480
+      }
+    }
+  },
+  {
+    "id": "prod_28",
+    "category": "pulsa",
+    "provider": "Axis",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 102000,
+        "reseller": 105060,
+        "customer": 109140
+      },
+      "D": {
+        "modal": 108000,
+        "reseller": 114480,
+        "customer": 120960
+      }
+    }
+  },
+  {
+    "id": "prod_29",
+    "category": "pulsa",
+    "provider": "Tri",
+    "nominal": 5000,
+    "prices": {
+      "A": {
+        "modal": 5100,
+        "reseller": 5253,
+        "customer": 5457
+      },
+      "D": {
+        "modal": 5400,
+        "reseller": 5724,
+        "customer": 6048
+      }
+    }
+  },
+  {
+    "id": "prod_30",
+    "category": "pulsa",
+    "provider": "Tri",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10200,
+        "reseller": 10506,
+        "customer": 10914
+      },
+      "D": {
+        "modal": 10800,
+        "reseller": 11448,
+        "customer": 12096
+      }
+    }
+  },
+  {
+    "id": "prod_31",
+    "category": "pulsa",
+    "provider": "Tri",
+    "nominal": 15000,
+    "prices": {
+      "A": {
+        "modal": 15300,
+        "reseller": 15759,
+        "customer": 16371
+      },
+      "D": {
+        "modal": 16200,
+        "reseller": 17172,
+        "customer": 18144
+      }
+    }
+  },
+  {
+    "id": "prod_32",
+    "category": "pulsa",
+    "provider": "Tri",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20400,
+        "reseller": 21012,
+        "customer": 21828
+      },
+      "D": {
+        "modal": 21600,
+        "reseller": 22896,
+        "customer": 24192
+      }
+    }
+  },
+  {
+    "id": "prod_33",
+    "category": "pulsa",
+    "provider": "Tri",
+    "nominal": 25000,
+    "prices": {
+      "A": {
+        "modal": 25500,
+        "reseller": 26265,
+        "customer": 27285
+      },
+      "D": {
+        "modal": 27000,
+        "reseller": 28620,
+        "customer": 30240
+      }
+    }
+  },
+  {
+    "id": "prod_34",
+    "category": "pulsa",
+    "provider": "Tri",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 51000,
+        "reseller": 52530,
+        "customer": 54570
+      },
+      "D": {
+        "modal": 54000,
+        "reseller": 57240,
+        "customer": 60480
+      }
+    }
+  },
+  {
+    "id": "prod_35",
+    "category": "pulsa",
+    "provider": "Tri",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 102000,
+        "reseller": 105060,
+        "customer": 109140
+      },
+      "D": {
+        "modal": 108000,
+        "reseller": 114480,
+        "customer": 120960
+      }
+    }
+  },
+  {
+    "id": "prod_36",
+    "category": "pulsa",
+    "provider": "Smartfren",
+    "nominal": 5000,
+    "prices": {
+      "A": {
+        "modal": 5100,
+        "reseller": 5253,
+        "customer": 5457
+      },
+      "D": {
+        "modal": 5400,
+        "reseller": 5724,
+        "customer": 6048
+      }
+    }
+  },
+  {
+    "id": "prod_37",
+    "category": "pulsa",
+    "provider": "Smartfren",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10200,
+        "reseller": 10506,
+        "customer": 10914
+      },
+      "D": {
+        "modal": 10800,
+        "reseller": 11448,
+        "customer": 12096
+      }
+    }
+  },
+  {
+    "id": "prod_38",
+    "category": "pulsa",
+    "provider": "Smartfren",
+    "nominal": 15000,
+    "prices": {
+      "A": {
+        "modal": 15300,
+        "reseller": 15759,
+        "customer": 16371
+      },
+      "D": {
+        "modal": 16200,
+        "reseller": 17172,
+        "customer": 18144
+      }
+    }
+  },
+  {
+    "id": "prod_39",
+    "category": "pulsa",
+    "provider": "Smartfren",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20400,
+        "reseller": 21012,
+        "customer": 21828
+      },
+      "D": {
+        "modal": 21600,
+        "reseller": 22896,
+        "customer": 24192
+      }
+    }
+  },
+  {
+    "id": "prod_40",
+    "category": "pulsa",
+    "provider": "Smartfren",
+    "nominal": 25000,
+    "prices": {
+      "A": {
+        "modal": 25500,
+        "reseller": 26265,
+        "customer": 27285
+      },
+      "D": {
+        "modal": 27000,
+        "reseller": 28620,
+        "customer": 30240
+      }
+    }
+  },
+  {
+    "id": "prod_41",
+    "category": "pulsa",
+    "provider": "Smartfren",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 51000,
+        "reseller": 52530,
+        "customer": 54570
+      },
+      "D": {
+        "modal": 54000,
+        "reseller": 57240,
+        "customer": 60480
+      }
+    }
+  },
+  {
+    "id": "prod_42",
+    "category": "pulsa",
+    "provider": "Smartfren",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 102000,
+        "reseller": 105060,
+        "customer": 109140
+      },
+      "D": {
+        "modal": 108000,
+        "reseller": 114480,
+        "customer": 120960
+      }
+    }
+  },
+  {
+    "id": "prod_43",
+    "category": "data",
+    "provider": "Telkomsel",
+    "paket": "1GB",
+    "prices": {
+      "A": {
+        "modal": 9090,
+        "reseller": 9363,
+        "customer": 9726
+      },
+      "D": {
+        "modal": 10080,
+        "reseller": 10685,
+        "customer": 11290
+      }
+    }
+  },
+  {
+    "id": "prod_44",
+    "category": "data",
+    "provider": "Telkomsel",
+    "paket": "2GB",
+    "prices": {
+      "A": {
+        "modal": 16160,
+        "reseller": 16645,
+        "customer": 17291
+      },
+      "D": {
+        "modal": 17920,
+        "reseller": 18995,
+        "customer": 20070
+      }
+    }
+  },
+  {
+    "id": "prod_45",
+    "category": "data",
+    "provider": "Telkomsel",
+    "paket": "5GB",
+    "prices": {
+      "A": {
+        "modal": 45450,
+        "reseller": 46814,
+        "customer": 48632
+      },
+      "D": {
+        "modal": 50400,
+        "reseller": 53424,
+        "customer": 56448
+      }
+    }
+  },
+  {
+    "id": "prod_46",
+    "category": "data",
+    "provider": "Telkomsel",
+    "paket": "10GB",
+    "prices": {
+      "A": {
+        "modal": 85850,
+        "reseller": 88426,
+        "customer": 91860
+      },
+      "D": {
+        "modal": 95200,
+        "reseller": 100912,
+        "customer": 106624
+      }
+    }
+  },
+  {
+    "id": "prod_47",
+    "category": "data",
+    "provider": "Telkomsel",
+    "paket": "30GB",
+    "prices": {
+      "A": {
+        "modal": 202000,
+        "reseller": 208060,
+        "customer": 216140
+      },
+      "D": {
+        "modal": 224000,
+        "reseller": 237440,
+        "customer": 250880
+      }
+    }
+  },
+  {
+    "id": "prod_48",
+    "category": "data",
+    "provider": "Indosat",
+    "paket": "1GB",
+    "prices": {
+      "A": {
+        "modal": 9090,
+        "reseller": 9363,
+        "customer": 9726
+      },
+      "D": {
+        "modal": 10080,
+        "reseller": 10685,
+        "customer": 11290
+      }
+    }
+  },
+  {
+    "id": "prod_49",
+    "category": "data",
+    "provider": "Indosat",
+    "paket": "2GB",
+    "prices": {
+      "A": {
+        "modal": 16160,
+        "reseller": 16645,
+        "customer": 17291
+      },
+      "D": {
+        "modal": 17920,
+        "reseller": 18995,
+        "customer": 20070
+      }
+    }
+  },
+  {
+    "id": "prod_50",
+    "category": "data",
+    "provider": "Indosat",
+    "paket": "5GB",
+    "prices": {
+      "A": {
+        "modal": 45450,
+        "reseller": 46814,
+        "customer": 48632
+      },
+      "D": {
+        "modal": 50400,
+        "reseller": 53424,
+        "customer": 56448
+      }
+    }
+  },
+  {
+    "id": "prod_51",
+    "category": "data",
+    "provider": "Indosat",
+    "paket": "10GB",
+    "prices": {
+      "A": {
+        "modal": 85850,
+        "reseller": 88426,
+        "customer": 91860
+      },
+      "D": {
+        "modal": 95200,
+        "reseller": 100912,
+        "customer": 106624
+      }
+    }
+  },
+  {
+    "id": "prod_52",
+    "category": "data",
+    "provider": "Indosat",
+    "paket": "30GB",
+    "prices": {
+      "A": {
+        "modal": 202000,
+        "reseller": 208060,
+        "customer": 216140
+      },
+      "D": {
+        "modal": 224000,
+        "reseller": 237440,
+        "customer": 250880
+      }
+    }
+  },
+  {
+    "id": "prod_53",
+    "category": "data",
+    "provider": "XL",
+    "paket": "1GB",
+    "prices": {
+      "A": {
+        "modal": 9090,
+        "reseller": 9363,
+        "customer": 9726
+      },
+      "D": {
+        "modal": 10080,
+        "reseller": 10685,
+        "customer": 11290
+      }
+    }
+  },
+  {
+    "id": "prod_54",
+    "category": "data",
+    "provider": "XL",
+    "paket": "2GB",
+    "prices": {
+      "A": {
+        "modal": 16160,
+        "reseller": 16645,
+        "customer": 17291
+      },
+      "D": {
+        "modal": 17920,
+        "reseller": 18995,
+        "customer": 20070
+      }
+    }
+  },
+  {
+    "id": "prod_55",
+    "category": "data",
+    "provider": "XL",
+    "paket": "5GB",
+    "prices": {
+      "A": {
+        "modal": 45450,
+        "reseller": 46814,
+        "customer": 48632
+      },
+      "D": {
+        "modal": 50400,
+        "reseller": 53424,
+        "customer": 56448
+      }
+    }
+  },
+  {
+    "id": "prod_56",
+    "category": "data",
+    "provider": "XL",
+    "paket": "10GB",
+    "prices": {
+      "A": {
+        "modal": 85850,
+        "reseller": 88426,
+        "customer": 91860
+      },
+      "D": {
+        "modal": 95200,
+        "reseller": 100912,
+        "customer": 106624
+      }
+    }
+  },
+  {
+    "id": "prod_57",
+    "category": "data",
+    "provider": "XL",
+    "paket": "30GB",
+    "prices": {
+      "A": {
+        "modal": 202000,
+        "reseller": 208060,
+        "customer": 216140
+      },
+      "D": {
+        "modal": 224000,
+        "reseller": 237440,
+        "customer": 250880
+      }
+    }
+  },
+  {
+    "id": "prod_58",
+    "category": "data",
+    "provider": "Axis",
+    "paket": "1GB",
+    "prices": {
+      "A": {
+        "modal": 9090,
+        "reseller": 9363,
+        "customer": 9726
+      },
+      "D": {
+        "modal": 10080,
+        "reseller": 10685,
+        "customer": 11290
+      }
+    }
+  },
+  {
+    "id": "prod_59",
+    "category": "data",
+    "provider": "Axis",
+    "paket": "2GB",
+    "prices": {
+      "A": {
+        "modal": 16160,
+        "reseller": 16645,
+        "customer": 17291
+      },
+      "D": {
+        "modal": 17920,
+        "reseller": 18995,
+        "customer": 20070
+      }
+    }
+  },
+  {
+    "id": "prod_60",
+    "category": "data",
+    "provider": "Axis",
+    "paket": "5GB",
+    "prices": {
+      "A": {
+        "modal": 45450,
+        "reseller": 46814,
+        "customer": 48632
+      },
+      "D": {
+        "modal": 50400,
+        "reseller": 53424,
+        "customer": 56448
+      }
+    }
+  },
+  {
+    "id": "prod_61",
+    "category": "data",
+    "provider": "Axis",
+    "paket": "10GB",
+    "prices": {
+      "A": {
+        "modal": 85850,
+        "reseller": 88426,
+        "customer": 91860
+      },
+      "D": {
+        "modal": 95200,
+        "reseller": 100912,
+        "customer": 106624
+      }
+    }
+  },
+  {
+    "id": "prod_62",
+    "category": "data",
+    "provider": "Axis",
+    "paket": "30GB",
+    "prices": {
+      "A": {
+        "modal": 202000,
+        "reseller": 208060,
+        "customer": 216140
+      },
+      "D": {
+        "modal": 224000,
+        "reseller": 237440,
+        "customer": 250880
+      }
+    }
+  },
+  {
+    "id": "prod_63",
+    "category": "data",
+    "provider": "Tri",
+    "paket": "1GB",
+    "prices": {
+      "A": {
+        "modal": 9090,
+        "reseller": 9363,
+        "customer": 9726
+      },
+      "D": {
+        "modal": 10080,
+        "reseller": 10685,
+        "customer": 11290
+      }
+    }
+  },
+  {
+    "id": "prod_64",
+    "category": "data",
+    "provider": "Tri",
+    "paket": "2GB",
+    "prices": {
+      "A": {
+        "modal": 16160,
+        "reseller": 16645,
+        "customer": 17291
+      },
+      "D": {
+        "modal": 17920,
+        "reseller": 18995,
+        "customer": 20070
+      }
+    }
+  },
+  {
+    "id": "prod_65",
+    "category": "data",
+    "provider": "Tri",
+    "paket": "5GB",
+    "prices": {
+      "A": {
+        "modal": 45450,
+        "reseller": 46814,
+        "customer": 48632
+      },
+      "D": {
+        "modal": 50400,
+        "reseller": 53424,
+        "customer": 56448
+      }
+    }
+  },
+  {
+    "id": "prod_66",
+    "category": "data",
+    "provider": "Tri",
+    "paket": "10GB",
+    "prices": {
+      "A": {
+        "modal": 85850,
+        "reseller": 88426,
+        "customer": 91860
+      },
+      "D": {
+        "modal": 95200,
+        "reseller": 100912,
+        "customer": 106624
+      }
+    }
+  },
+  {
+    "id": "prod_67",
+    "category": "data",
+    "provider": "Tri",
+    "paket": "30GB",
+    "prices": {
+      "A": {
+        "modal": 202000,
+        "reseller": 208060,
+        "customer": 216140
+      },
+      "D": {
+        "modal": 224000,
+        "reseller": 237440,
+        "customer": 250880
+      }
+    }
+  },
+  {
+    "id": "prod_68",
+    "category": "data",
+    "provider": "Smartfren",
+    "paket": "1GB",
+    "prices": {
+      "A": {
+        "modal": 9090,
+        "reseller": 9363,
+        "customer": 9726
+      },
+      "D": {
+        "modal": 10080,
+        "reseller": 10685,
+        "customer": 11290
+      }
+    }
+  },
+  {
+    "id": "prod_69",
+    "category": "data",
+    "provider": "Smartfren",
+    "paket": "2GB",
+    "prices": {
+      "A": {
+        "modal": 16160,
+        "reseller": 16645,
+        "customer": 17291
+      },
+      "D": {
+        "modal": 17920,
+        "reseller": 18995,
+        "customer": 20070
+      }
+    }
+  },
+  {
+    "id": "prod_70",
+    "category": "data",
+    "provider": "Smartfren",
+    "paket": "5GB",
+    "prices": {
+      "A": {
+        "modal": 45450,
+        "reseller": 46814,
+        "customer": 48632
+      },
+      "D": {
+        "modal": 50400,
+        "reseller": 53424,
+        "customer": 56448
+      }
+    }
+  },
+  {
+    "id": "prod_71",
+    "category": "data",
+    "provider": "Smartfren",
+    "paket": "10GB",
+    "prices": {
+      "A": {
+        "modal": 85850,
+        "reseller": 88426,
+        "customer": 91860
+      },
+      "D": {
+        "modal": 95200,
+        "reseller": 100912,
+        "customer": 106624
+      }
+    }
+  },
+  {
+    "id": "prod_72",
+    "category": "data",
+    "provider": "Smartfren",
+    "paket": "30GB",
+    "prices": {
+      "A": {
+        "modal": 202000,
+        "reseller": 208060,
+        "customer": 216140
+      },
+      "D": {
+        "modal": 224000,
+        "reseller": 237440,
+        "customer": 250880
+      }
+    }
+  },
+  {
+    "id": "prod_73",
+    "category": "pln_token",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20200,
+        "reseller": 20806,
+        "customer": 21614
+      },
+      "D": {
+        "modal": 21600,
+        "reseller": 22896,
+        "customer": 24192
+      }
+    }
+  },
+  {
+    "id": "prod_74",
+    "category": "pln_token",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 50500,
+        "reseller": 52015,
+        "customer": 54035
+      },
+      "D": {
+        "modal": 54000,
+        "reseller": 57240,
+        "customer": 60480
+      }
+    }
+  },
+  {
+    "id": "prod_75",
+    "category": "pln_token",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 101000,
+        "reseller": 104030,
+        "customer": 108070
+      },
+      "D": {
+        "modal": 108000,
+        "reseller": 114480,
+        "customer": 120960
+      }
+    }
+  },
+  {
+    "id": "prod_76",
+    "category": "pln_token",
+    "nominal": 200000,
+    "prices": {
+      "A": {
+        "modal": 202000,
+        "reseller": 208060,
+        "customer": 216140
+      },
+      "D": {
+        "modal": 216000,
+        "reseller": 228960,
+        "customer": 241920
+      }
+    }
+  },
+  {
+    "id": "prod_77",
+    "category": "ewallet",
+    "provider": "Dana",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10100,
+        "reseller": 10403,
+        "customer": 10807
+      },
+      "D": {
+        "modal": 11000,
+        "reseller": 11550,
+        "customer": 12320
+      }
+    }
+  },
+  {
+    "id": "prod_78",
+    "category": "ewallet",
+    "provider": "Dana",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20200,
+        "reseller": 20806,
+        "customer": 21614
+      },
+      "D": {
+        "modal": 22000,
+        "reseller": 23100,
+        "customer": 24640
+      }
+    }
+  },
+  {
+    "id": "prod_79",
+    "category": "ewallet",
+    "provider": "Dana",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 50500,
+        "reseller": 52015,
+        "customer": 54035
+      },
+      "D": {
+        "modal": 55000,
+        "reseller": 57750,
+        "customer": 61600
+      }
+    }
+  },
+  {
+    "id": "prod_80",
+    "category": "ewallet",
+    "provider": "Dana",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 101000,
+        "reseller": 104030,
+        "customer": 108070
+      },
+      "D": {
+        "modal": 110000,
+        "reseller": 115500,
+        "customer": 123200
+      }
+    }
+  },
+  {
+    "id": "prod_81",
+    "category": "ewallet",
+    "provider": "OVO",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10100,
+        "reseller": 10403,
+        "customer": 10807
+      },
+      "D": {
+        "modal": 11000,
+        "reseller": 11550,
+        "customer": 12320
+      }
+    }
+  },
+  {
+    "id": "prod_82",
+    "category": "ewallet",
+    "provider": "OVO",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20200,
+        "reseller": 20806,
+        "customer": 21614
+      },
+      "D": {
+        "modal": 22000,
+        "reseller": 23100,
+        "customer": 24640
+      }
+    }
+  },
+  {
+    "id": "prod_83",
+    "category": "ewallet",
+    "provider": "OVO",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 50500,
+        "reseller": 52015,
+        "customer": 54035
+      },
+      "D": {
+        "modal": 55000,
+        "reseller": 57750,
+        "customer": 61600
+      }
+    }
+  },
+  {
+    "id": "prod_84",
+    "category": "ewallet",
+    "provider": "OVO",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 101000,
+        "reseller": 104030,
+        "customer": 108070
+      },
+      "D": {
+        "modal": 110000,
+        "reseller": 115500,
+        "customer": 123200
+      }
+    }
+  },
+  {
+    "id": "prod_85",
+    "category": "ewallet",
+    "provider": "GoPay",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10100,
+        "reseller": 10403,
+        "customer": 10807
+      },
+      "D": {
+        "modal": 11000,
+        "reseller": 11550,
+        "customer": 12320
+      }
+    }
+  },
+  {
+    "id": "prod_86",
+    "category": "ewallet",
+    "provider": "GoPay",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20200,
+        "reseller": 20806,
+        "customer": 21614
+      },
+      "D": {
+        "modal": 22000,
+        "reseller": 23100,
+        "customer": 24640
+      }
+    }
+  },
+  {
+    "id": "prod_87",
+    "category": "ewallet",
+    "provider": "GoPay",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 50500,
+        "reseller": 52015,
+        "customer": 54035
+      },
+      "D": {
+        "modal": 55000,
+        "reseller": 57750,
+        "customer": 61600
+      }
+    }
+  },
+  {
+    "id": "prod_88",
+    "category": "ewallet",
+    "provider": "GoPay",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 101000,
+        "reseller": 104030,
+        "customer": 108070
+      },
+      "D": {
+        "modal": 110000,
+        "reseller": 115500,
+        "customer": 123200
+      }
+    }
+  },
+  {
+    "id": "prod_89",
+    "category": "ewallet",
+    "provider": "ShopeePay",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10100,
+        "reseller": 10403,
+        "customer": 10807
+      },
+      "D": {
+        "modal": 11000,
+        "reseller": 11550,
+        "customer": 12320
+      }
+    }
+  },
+  {
+    "id": "prod_90",
+    "category": "ewallet",
+    "provider": "ShopeePay",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20200,
+        "reseller": 20806,
+        "customer": 21614
+      },
+      "D": {
+        "modal": 22000,
+        "reseller": 23100,
+        "customer": 24640
+      }
+    }
+  },
+  {
+    "id": "prod_91",
+    "category": "ewallet",
+    "provider": "ShopeePay",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 50500,
+        "reseller": 52015,
+        "customer": 54035
+      },
+      "D": {
+        "modal": 55000,
+        "reseller": 57750,
+        "customer": 61600
+      }
+    }
+  },
+  {
+    "id": "prod_92",
+    "category": "ewallet",
+    "provider": "ShopeePay",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 101000,
+        "reseller": 104030,
+        "customer": 108070
+      },
+      "D": {
+        "modal": 110000,
+        "reseller": 115500,
+        "customer": 123200
+      }
+    }
+  },
+  {
+    "id": "prod_93",
+    "category": "ewallet",
+    "provider": "LinkAja",
+    "nominal": 10000,
+    "prices": {
+      "A": {
+        "modal": 10100,
+        "reseller": 10403,
+        "customer": 10807
+      },
+      "D": {
+        "modal": 11000,
+        "reseller": 11550,
+        "customer": 12320
+      }
+    }
+  },
+  {
+    "id": "prod_94",
+    "category": "ewallet",
+    "provider": "LinkAja",
+    "nominal": 20000,
+    "prices": {
+      "A": {
+        "modal": 20200,
+        "reseller": 20806,
+        "customer": 21614
+      },
+      "D": {
+        "modal": 22000,
+        "reseller": 23100,
+        "customer": 24640
+      }
+    }
+  },
+  {
+    "id": "prod_95",
+    "category": "ewallet",
+    "provider": "LinkAja",
+    "nominal": 50000,
+    "prices": {
+      "A": {
+        "modal": 50500,
+        "reseller": 52015,
+        "customer": 54035
+      },
+      "D": {
+        "modal": 55000,
+        "reseller": 57750,
+        "customer": 61600
+      }
+    }
+  },
+  {
+    "id": "prod_96",
+    "category": "ewallet",
+    "provider": "LinkAja",
+    "nominal": 100000,
+    "prices": {
+      "A": {
+        "modal": 101000,
+        "reseller": 104030,
+        "customer": 108070
+      },
+      "D": {
+        "modal": 110000,
+        "reseller": 115500,
+        "customer": 123200
+      }
+    }
+  },
+  {
+    "id": "prod_97",
+    "category": "billing",
+    "name": "BPJS Kesehatan",
+    "amount": 100000,
+    "prices": {
+      "A": {
+        "modal": 102000,
+        "reseller": 105060,
+        "customer": 109140
+      },
+      "D": {
+        "modal": 112000,
+        "reseller": 118720,
+        "customer": 125440
+      }
+    }
+  },
+  {
+    "id": "prod_98",
+    "category": "billing",
+    "name": "PDAM Jakarta",
+    "amount": 50000,
+    "prices": {
+      "A": {
+        "modal": 51000,
+        "reseller": 52530,
+        "customer": 54570
+      },
+      "D": {
+        "modal": 56000,
+        "reseller": 59360,
+        "customer": 62720
+      }
+    }
+  },
+  {
+    "id": "prod_99",
+    "category": "billing",
+    "name": "IndiHome Tagihan",
+    "amount": 250000,
+    "prices": {
+      "A": {
+        "modal": 255000,
+        "reseller": 262650,
+        "customer": 272850
+      },
+      "D": {
+        "modal": 280000,
+        "reseller": 296800,
+        "customer": 313600
+      }
+    }
+  },
+  {
+    "id": "prod_100",
+    "category": "billing",
+    "name": "TV Kabel (Transvision)",
+    "amount": 75000,
+    "prices": {
+      "A": {
+        "modal": 76500,
+        "reseller": 78795,
+        "customer": 81855
+      },
+      "D": {
+        "modal": 84000,
+        "reseller": 89040,
+        "customer": 94080
+      }
+    }
+  },
+  {
+    "id": "prod_101",
+    "category": "game",
+    "game": "Mobile Legends",
+    "item": "86 Diamonds",
+    "prices": {
+      "A": {
+        "modal": 17200,
+        "reseller": 17716,
+        "customer": 18404
+      },
+      "D": {
+        "modal": 19780,
+        "reseller": 20967,
+        "customer": 22154
+      }
+    }
+  },
+  {
+    "id": "prod_102",
+    "category": "game",
+    "game": "Mobile Legends",
+    "item": "172 Diamonds",
+    "prices": {
+      "A": {
+        "modal": 34000,
+        "reseller": 35020,
+        "customer": 36380
+      },
+      "D": {
+        "modal": 39100,
+        "reseller": 41446,
+        "customer": 43792
+      }
+    }
+  },
+  {
+    "id": "prod_103",
+    "category": "game",
+    "game": "Free Fire",
+    "item": "70 Diamonds",
+    "prices": {
+      "A": {
+        "modal": 9200,
+        "reseller": 9476,
+        "customer": 9844
+      },
+      "D": {
+        "modal": 10580,
+        "reseller": 11215,
+        "customer": 11850
+      }
+    }
+  },
+  {
+    "id": "prod_104",
+    "category": "game",
+    "game": "PUBG Mobile",
+    "item": "60 UC",
+    "prices": {
+      "A": {
+        "modal": 12300,
+        "reseller": 12669,
+        "customer": 13161
+      },
+      "D": {
+        "modal": 14145,
+        "reseller": 14994,
+        "customer": 15842
+      }
+    }
+  },
+  {
+    "id": "prod_105",
+    "category": "game",
+    "game": "Genshin Impact",
+    "item": "60 Primogems",
+    "prices": {
+      "A": {
+        "modal": 11400,
+        "reseller": 11742,
+        "customer": 12198
+      },
+      "D": {
+        "modal": 13110,
+        "reseller": 13897,
+        "customer": 14683
+      }
+    }
+  },
+  {
+    "id": "prod_106",
+    "category": "game",
+    "game": "Valorant",
+    "item": "125 VP",
+    "prices": {
+      "A": {
+        "modal": 16000,
+        "reseller": 16480,
+        "customer": 17120
+      },
+      "D": {
+        "modal": 18400,
+        "reseller": 19504,
+        "customer": 20608
+      }
+    }
+  },
+  {
+    "id": "prod_107",
+    "category": "game",
+    "game": "COD Mobile",
+    "item": "80 CP",
+    "prices": {
+      "A": {
+        "modal": 11200,
+        "reseller": 11536,
+        "customer": 11984
+      },
+      "D": {
+        "modal": 12880,
+        "reseller": 13653,
+        "customer": 14426
+      }
+    }
+  },
+  {
+    "id": "prod_108",
+    "category": "game",
+    "game": "Higgs Domino",
+    "item": "30B",
+    "prices": {
+      "A": {
+        "modal": 6200,
+        "reseller": 6386,
+        "customer": 6634
+      },
+      "D": {
+        "modal": 7130,
+        "reseller": 7558,
+        "customer": 7986
+      }
+    }
+  },
+  {
+    "id": "prod_109",
+    "category": "game",
+    "game": "Roblox",
+    "item": "400 Robux",
+    "prices": {
+      "A": {
+        "modal": 60000,
+        "reseller": 61800,
+        "customer": 64200
+      },
+      "D": {
+        "modal": 69000,
+        "reseller": 73140,
+        "customer": 77280
+      }
+    }
+  },
+  {
+    "id": "prod_110",
+    "category": "game",
+    "game": "Steam Wallet",
+    "item": "50k",
+    "prices": {
+      "A": {
+        "modal": 50000,
+        "reseller": 51500,
+        "customer": 53500
+      },
+      "D": {
+        "modal": 57500,
+        "reseller": 60950,
+        "customer": 64400
+      }
+    }
+  }
+]
